@@ -32,10 +32,11 @@ Males have the largest volume of usage betweend 8am and 5/6pm.
 
 
 ![image](https://user-images.githubusercontent.com/99636479/171339377-7a6d9b2f-c42f-433d-ad52-81c2c8fdafcc.png)
+
 Males with subscriptions make up the majority of the users.
 
 # Summary
 Based on the analysis is appears the majority of bike sharing customers are males working 8-5. Two additional visualizations to create would be the checkout times by age as well as the usertype by age to determine if a certain age group makes up the population of users.
 
 # Tableau
-
+https://public.tableau.com/views/Bikesharing_Challenge_16539499652310/NYCCheckoutTimes?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
